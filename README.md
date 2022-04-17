@@ -1,6 +1,6 @@
 # Live Webstie
 
-[Live Preview](http://localhost:8080/#/signin)
+[Live Preview](https://ayanhw5-react-frontend.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
