@@ -9,7 +9,7 @@
 
 #Link for Backend
 
-https://github.com/ayantuladhar1/CSC3916_HW5_Backend.git
+https://github.com/ayantuladhar1/CSC3916_HW4_Backend.git
 
 Purpose 
 The purpose of this assignment is to create a React Single Page App over your developed API. The interface will allow the users to search for movies, display information about the movie, see stored ratings, and allow the user to enter a rating. 
